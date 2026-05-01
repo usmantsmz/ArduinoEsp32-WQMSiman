@@ -55,7 +55,7 @@ const int TDS_PIN           = A1;
 const int DS18B20_PIN       = 14;
 const int A01_RX_PIN        = 18;   // Sensor TX -> ESP32-S3 GPIO18
 const int A01_TX_PIN        = 17;   // ESP32-S3 GPIO17 -> Sensor RX, jika digunakan
-const int RELAY_PUMP_PIN    = 16;
+const int RELAY_PUMP_PIN    = 38;
 
 // Relay setting
 const bool RELAY_ACTIVE_LOW = true;
