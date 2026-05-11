@@ -39,7 +39,7 @@ const String TB_TOKEN  = "MIjbtLI0rTaTxFulP5OL";//a2f46a70-449c-11f1-9681-6110e8
 
 // Telegram
 const String TELEGRAM_BOT_TOKEN = "8658402266:AAEQrUoFQCrlMzm9AMIPaxPkkkAS-MKFouw";
-const String TELEGRAM_CHAT_ID   = "-5017708130";
+const String TELEGRAM_CHAT_ID   = "-1003609948341";//CHAT ID
 
 // Pin mapping
 #ifndef A0
